@@ -1,10 +1,11 @@
-<img width="773" height="435" alt="image" src="https://github.com/user-attachments/assets/e4dcd83c-1b88-459f-8ae2-bb86bb0fdf20" /># Project-Management-Data-Analysis
+<img width="773" height="435" alt="image" src="https://github.com/user-attachments/assets/e4dcd83c-1b88-459f-8ae2-bb86bb0fdf20" />
+# Project-Management-Data-Analysis
 
 **Overview:**
 
 The Project Management Data Analysis is an interactive Power BI dashboard designed to monitor project performance, task assignments, project progress, timelines, and resource utilization. It provides project managers and stakeholders with real-time insights into project execution through KPIs, charts, and slicers.
 
-******Objectives:**********
+**Objectives:**
 
 Monitor overall project progress.
 Track assigned resources.
